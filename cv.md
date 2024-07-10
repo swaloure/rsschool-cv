@@ -14,5 +14,22 @@ I've been studying in Alem School, Astana for 8 months to learn Golang and I'm a
 
 ----
 
+### Skills 
+
+* Go
+* VS Code
+* Git
+* HTML
+* CSS
+
+----
+
+### Education
+
+#### Kazakh National University of Arts, Painting and Sculpture (2021-2025)
+
+
+### English
+**B2**
 
 
