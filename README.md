@@ -1,1 +1,1 @@
-# rsschool-cv
+https://swaloure.github.io/rsschool-cv/
